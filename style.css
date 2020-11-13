@@ -1,0 +1,12 @@
+img{
+    width: 100%;
+}
+body{
+    background-color: black;
+    font-family: 'Lobster', cursive;
+}
+h1{
+    color: white;
+    font-size: 100px;
+    text-align: center;
+}
